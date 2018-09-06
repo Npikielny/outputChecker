@@ -6,7 +6,7 @@ input1dict = []
 input2dict = []
 inputLarge = []
 inputSmall = []
-
+print("-----------------------------------------")
 outputCorrect = ""
 outputIncorrect = ""
 index = 0
