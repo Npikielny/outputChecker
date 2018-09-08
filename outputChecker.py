@@ -1,7 +1,7 @@
 #input1 = str(input("Input 1: "))
 #input2 = str(input("Input 2: "))
-input1 = ""
-input2 = ""
+input1 = ''
+input2 = ''
 input1dict = []
 input2dict = []
 inputLarge = []
